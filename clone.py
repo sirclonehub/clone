@@ -29,9 +29,9 @@ def dbg(msg):
     print(f"[DEBUG] {msg}", flush=True)
 
 # ==================== BOT CONFIG (HARDCODED) ====================
-BOT_TOKEN = "8991886779:AAHShJlERoZCDyTP94xFj4NOY5CYEO_SnEQ"
-AUTHORIZED_ID = "6521643358"
-CREATOR = "@Nasa8322"
+BOT_TOKEN = "8417580410:AAHUR8rpElC3T5chkrUMwYGSgU8kZrM_b_c"
+AUTHORIZED_ID = "6654163820"
+CREATOR = "@Sirclone"
 
 bcyan = "\033[1;36m"
 bgreen = "\033[1;32m"
